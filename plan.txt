@@ -1,0 +1,20 @@
+Requirements for v1.0
+    - math:
+        - arithmetic:
+            - times tables
+            - select operator training (+,-,/,*,%,//)
+            - indices
+            - percentages
+            - square roots
+    - app:
+        - ui/ux:
+            - curses interface
+            - vi-like key bindings
+            - on-screen help
+            - select number of digits, operators, and constants
+            - time based training (60 seconds, return accuracy)
+            - score based training (answer X amount correctly, return time)
+        - storage:
+            - track performance and save to file
+            - show progress over time
+            - create training routines/playlists
