@@ -8,9 +8,8 @@ Requirements for v1.0
             - square roots
     - app:
         - ui/ux:
-            - curses interface
-            - vi-like key bindings
-            - on-screen help
+            - catppuccin latte & frappe
+            - electron for offline
             - select number of digits, operators, and constants
             - time based training (60 seconds, return accuracy)
             - score based training (answer X amount correctly, return time)
